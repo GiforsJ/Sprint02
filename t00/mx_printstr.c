@@ -9,4 +9,3 @@ void mx_printstr(const char *s){
         write(1,&s[i],1);
     }
 } 
-
